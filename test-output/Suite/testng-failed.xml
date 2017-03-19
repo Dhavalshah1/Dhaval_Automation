@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="TestCases.ElfuScripts">
+        <methods>
+          <include name="setup"/>
+          <include name="Search_"/>
+          <include name="endtest"/>
+          <include name="Language_selection"/>
+          <include name="Home_and_Country_Doc_Validation"/>
+        </methods>
+      </class> <!-- TestCases.ElfuScripts -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
